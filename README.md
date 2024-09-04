@@ -12,11 +12,11 @@ A back-end server and database using SQL, PostgreSQL, and Sequelize to track inv
 - [Questions](#questions)
 
 ## Installation
-Use NPM to install [Express](https://www.npmjs.com/package/express)
-Use NPM to install [PG](https://www.npmjs.com/package/pg)
-Use NPM to install [Sequelize](https://www.npmjs.com/package/sequelize)
-Use NPM to install [DotENV](https://www.npmjs.com/package/dotenv)
-Use NPM to install [Nodemon](https://www.npmjs.com/package/nodemon)
+- Use NPM to install [Express](https://www.npmjs.com/package/express)
+- Use NPM to install [PG](https://www.npmjs.com/package/pg)
+- Use NPM to install [Sequelize](https://www.npmjs.com/package/sequelize)
+- Use NPM to install [DotENV](https://www.npmjs.com/package/dotenv)
+- Use NPM to install [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Usage
 [Video Demonstration](https://www.awesomescreenshot.com/video/31191923?key=3a95fac81f04b50963e4bcf160148003)
