@@ -2,7 +2,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-A back-end server and database using SQL to track inventory via associated category, product, and tag tables.
+A back-end server and database using SQL, PostgreSQL, and Sequelize to track inventory via associated category, product, and tag tables.
           
 ## Table of Contents
 - [Installation](#installation)
@@ -19,7 +19,7 @@ Use NPM to install [DotENV](https://www.npmjs.com/package/dotenv)
 Use NPM to install [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Usage
-[Video Demonstration]()
+[Video Demonstration](https://www.awesomescreenshot.com/video/31191923?key=3a95fac81f04b50963e4bcf160148003)
 
 ## License
 
